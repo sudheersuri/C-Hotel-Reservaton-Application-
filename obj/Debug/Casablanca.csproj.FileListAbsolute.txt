@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\Casablanca\bin\Debug\Casablanca.exe.config
+C:\Users\lenovo\source\repos\Casablanca\bin\Debug\Casablanca.exe
+C:\Users\lenovo\source\repos\Casablanca\bin\Debug\Casablanca.pdb
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.exe
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.pdb
+C:\Users\lenovo\source\repos\Casablanca\obj\Debug\Casablanca.checkinForm.resources
